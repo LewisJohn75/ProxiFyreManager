@@ -1,12 +1,12 @@
 # ProxiFyreManager
-Простой менеджер-редактор для [ProxiFyre](https://github.com/wiresock/proxifyre) написанный на C#
+Простой легковесный минимальный менеджер-редактор для [ProxiFyre](https://github.com/wiresock/proxifyre) написанный на C#
 
 Работает с одним единственным профилем, удобен для быстрого и удобного добавления/удаления целевых программ для работы ProxiFyre.
 
 # Как установить
-1. Скачайте последний релиз "ProxiFyreManager.exe"
+1. Скачайте [последний релиз](https://github.com/LewisJohn75/ProxiFyreManager/releases/tag/Latest) "ProxiFyreManager.exe"
 2. Переместите "ProxiFyreManager.exe" в папку с "ProxiFyre.exe"
-[ ! ] "ProxiFyreManager.exe" не запустится, если не найдет рядом с собой "ProxiFyre.exe"!
+[⚠️] "ProxiFyreManager.exe" не запустится, если не найдет рядом с собой "ProxiFyre.exe"!
 
 # Как пользоваться
  * При запуске приложения существующий "app-config.json" загружается автоматически.
